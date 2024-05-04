@@ -5,7 +5,7 @@ date: 2021-01-20
 aliases: ["/papermod-how-to-guide"]
 tags: ["PaperMod", "Docs"]
 author: ["PaperMod Contributors"]
-draft: true
+# draft: true
 aliases: [/posts/papermod/papermod-how-to]
 weight: 3
 ---

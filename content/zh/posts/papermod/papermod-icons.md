@@ -6,7 +6,7 @@ weight: 4
 aliases: ["/papermod-icons"]
 tags: ["PaperMod", "Docs"]
 author: ["Aditya Telange"]
-draft: true
+# draft: true
 ---
 
 ## Social Icons
