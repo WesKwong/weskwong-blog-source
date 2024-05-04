@@ -4,7 +4,13 @@
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+        <span>
+            Copyright
+            &copy;
+            2021-{{ now.Year }}
+            <a href="{{ "" | absLangURL }}" style="color:#939393;">{{ .Site.Params.author }}</a>
+            All Rights Reserved
+        </span>
         {{- end }}
         {{- print " · "}}
     {{- end }}
