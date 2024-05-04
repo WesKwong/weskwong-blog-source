@@ -124,27 +124,28 @@ languages:
     languageCode: "zh-cn"
     weight: 1
 
-    label:
-      text: "WesKwong的博客"
-      icon: "images/avatar.png"
-      iconHeight: 35
+    params:
+      label:
+        text: "WesKwong的博客"
+        icon: "images/avatar.png"
+        iconHeight: 35
 
-    # profile-mode
-    profileMode:
-      enabled: ture # needs to be explicitly set
-      title: WesKwong
-      subtitle: "做人最紧要嘅就系开心"
-      imageUrl: "images/avatar.png"
-      imageWidth: 120
-      imageHeight: 120
-      imageTitle: My Avatar
-      buttons:
-        - name: 文章
-          url: posts
-        - name: 分类
-          url: categories
-        - name: 标签
-          url: tags
+      # profile-mode
+      profileMode:
+        enabled: ture # needs to be explicitly set
+        title: WesKwong
+        subtitle: "做人最紧要嘅就系开心"
+        imageUrl: "images/avatar.png"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: My Avatar
+        buttons:
+          - name: 文章
+            url: posts
+          - name: 分类
+            url: categories
+          - name: 标签
+            url: tags
 
     menu:
       main:
@@ -183,27 +184,28 @@ languages:
     languageCode: "en-us"
     weight: 2
 
-    label:
-      text: "WesKwong's Blog"
-      icon: "images/avatar.png"
-      iconHeight: 35
+    params:
+      label:
+        text: "WesKwong's Blog"
+        icon: "images/avatar.png"
+        iconHeight: 35
 
-    # profile-mode
-    profileMode:
-      enabled: ture # needs to be explicitly set
-      title: WesKwong
-      subtitle: "To be happy"
-      imageUrl: "images/avatar.png"
-      imageWidth: 120
-      imageHeight: 120
-      imageTitle: My Avatar
-      buttons:
-        - name: Posts
-          url: posts
-        - name: Categories
-          url: categories
-        - name: Tags
-          url: tags
+      # profile-mode
+      profileMode:
+        enabled: ture # needs to be explicitly set
+        title: WesKwong
+        subtitle: "To be happy"
+        imageUrl: "images/avatar.png"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: My Avatar
+        buttons:
+          - name: Posts
+            url: posts
+          - name: Categories
+            url: categories
+          - name: Tags
+            url: tags
 
     menu:
       main:
