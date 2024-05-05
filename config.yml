@@ -69,7 +69,7 @@ params:
     - name: bilibili
       url: "https://space.bilibili.com/12381710"
     - name: zhihu
-      url: "https://www.zhihu.com/people/tomorrow-69-19-3"
+      url: "https://www.zhihu.com/people/weskwong"
 
   analytics:
     google:
