@@ -64,10 +64,12 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: bilibili
-      url: "https://space.bilibili.com/12381710"
     - name: github
       url: "https://github.com/WesKwong"
+    - name: bilibili
+      url: "https://space.bilibili.com/12381710"
+    - name: zhihu
+      url: "https://www.zhihu.com/people/tomorrow-69-19-3"
 
   analytics:
     google:
